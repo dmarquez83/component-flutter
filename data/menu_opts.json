@@ -1,0 +1,24 @@
+{
+    "nombreApp": "Componentes",
+    "rutas": [{
+            "ruta": "list",
+            "icon": "list",
+            "texto": "Lista de Imagenes paginadas carga"
+        },
+        {
+            "ruta": "alert",
+            "icon": "add_alert",
+            "texto": "Alertas"
+        },
+        {
+            "ruta": "todolist",
+            "icon": "fact_check",
+            "texto": "Lista de Tareas"
+        },
+        {
+            "ruta": "slider",
+            "icon": "tune",
+            "texto": "Slider - Checks"
+        }
+    ]
+}
