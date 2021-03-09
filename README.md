@@ -25,3 +25,7 @@ You can contact me marquezdigna83@gmail.com
 <img src="assets/images/todolist2.png" alt="Logo" >
 <img src="assets/images/todolist3.png" alt="Logo" >
 <img src="assets/images/slider.png" alt="Logo" >
+<img src="assets/images/avatar.png" alt="Logo" >
+<img src="assets/images/cards.png" alt="Logo" >
+<img src="assets/images/inputs.png" alt="Logo" >
+<img src="assets/images/animation.png" alt="Logo" >
